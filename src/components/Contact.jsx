@@ -42,7 +42,7 @@ const Contact = () => {
           to_email: "sujata@jsmastery.pro",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY //public key
       )
       .then(
         () => {
