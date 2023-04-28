@@ -16,7 +16,6 @@ import {
     figma,
     docker,
     
-    shopify,
     carrent,
     jobit,
     tripguide,
