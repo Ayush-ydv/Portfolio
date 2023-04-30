@@ -16,7 +16,6 @@ import {
     figma,
     docker,
     
-    starbucks,
     tesla,
     shopify,
     carrent,
