@@ -15,7 +15,7 @@ import {
     git,
     figma,
     docker,
-    meta,
+    
     starbucks,
     tesla,
     shopify,
