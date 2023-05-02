@@ -52,7 +52,7 @@ const About = () => {
           Through my work, I strive to create intuitive and engaging experiences that solve real-world problems. 
           With my skills in web development, data analysis, and blockchain technology, 
           I am dedicated to staying up-to-date with the latest industry trends and using them
-           to create innovative solutions for businesses and organizations. 
+           to create innovative solutions for businesses and organizations.
            I invite you to explore my projects and learn more about my skills and experience.
       </motion.p>
 
